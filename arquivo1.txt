@@ -1,6 +1,6 @@
 Faculdade Uniesp
 Curdo de Ciência da Computação
-Discilplina: Tópicos Essenciais para Programação
+Discilplina: Tecnologia para Front-End
 
 Lista de exercício
 
@@ -8,4 +8,6 @@ Questão 01
 
 Questão 02
 
-Questão 03
+Questão 04
+
+Questão 05
